@@ -1,0 +1,68 @@
+﻿ItemName_DE= {
+
+--Build 42
+ItemName_Base.GreenPen = "Stift [Grün]",
+ItemName_Base.CigaretteSingle = "Zigarette",
+ItemName_Base.PlasticCup = "Plastikbecher [Leer]",
+
+--Vanilla
+ItemName_Base.Pistol3 = "Desert Eagle",
+ItemName_Base.Necklace_Crucifix = "Halskette mit Kruzifix",
+ItemName_Base.Bag_NormalHikingBag = "Kleiner Wanderrucksack",
+ItemName_Base.Pencil = "Stift [Blei]",
+
+--Boots-And-Clothes-Expanded
+ItemName_Base.RH93_MicroShorts = "Freizügige Hotpants",
+ItemName_Base.Shoes_KneeHighs = "Straßenstiefel",
+
+--Unsorted
+ItemName_Base.Shoes_GothBoots = "Kurze Gothstiefel",
+ItemName_Base.Shoes_Satanias = "Lange Gothstiefel",
+ItemName_Base.RUKSAK2 = "Einsatzrucksack",
+ItemName_Base.LIF3 = "Freizügiges Oberteil",
+ItemName_Dire.Shorts_Action = "Enge Shorts",
+ItemName_Dire.Shorts_ActionTint = "Enge Shorts",
+ItemName_Base.PAN_4 = "Freizügige Badehose",
+ItemName_Base.PAN_2 = "Tanga",
+ItemName_Base.PAN_5 = "Freizügiger Tanga [Schwarz]",
+
+--Underwear
+ItemName_Base.Bra_Strapless_White = "Halterloser BH [Weiß]",
+ItemName_Base.Bra_Strapless_Black = "Halterloser BH [Schwarz]",
+ItemName_Base.Bra_Strapless_FrillyBlack = "Halterloser BH [Grau]",
+ItemName_Base.Bra_Strapless_FrillyPink = "Halterloser BH [Pink]",
+ItemName_Base.Bra_Strapless_FrillyRed = "Halterloser BH [Rot]",
+ItemName_Base.Bra_Strapless_RedSpots = "Halterloser BH [Punkte]",
+ItemName_Base.Bra_Strapless_AnimalPrint = "Halterloser BH [Tiere]",
+
+ItemName_Base.Bra_Straps_White = "Push-Up BH [Weiß]",
+ItemName_Base.Bra_Straps_Black = "Push-Up BH [Schwarz]",
+ItemName_Base.Bra_Straps_FrillyBlack = "Push-Up BH [Grau]",
+ItemName_Base.Bra_Straps_FrillyPink = "Push-Up BH [Pink]",
+ItemName_Base.Bra_Straps_FrillyRed = "Push-Up BH [Rot]",
+ItemName_Base.Bra_Straps_AnimalPrint = "Push-Up BH [Tiere]",
+
+ItemName_Base.Briefs_White = "Konservative Unterhose [Weiß]",
+ItemName_Base.Briefs_AnimalPrints = "Konservative Unterhose [Tiere]",
+
+ItemName_Base.Briefs_SmallTrunks_WhiteTINT = "Konservative Badehose [Weiß]",
+ItemName_Base.Briefs_SmallTrunks_Black = "Konservative Badehose [Schwarz]",
+ItemName_Base.Briefs_SmallTrunks_Blue = "Konservative Badehose [Blau]",
+ItemName_Base.Briefs_SmallTrunks_Red = "Konservative Badehose [Rot]",
+
+ItemName_Base.Underpants_White = "Freizügige Unterhose [Weiß]",
+ItemName_Base.Underpants_Black = "Freizügige Unterhose [Schwarz]",
+ItemName_Base.FrillyUnderpants_Black = "Freizügige Unterhose [Grau]",
+ItemName_Base.FrillyUnderpants_Pink = "Freizügige Unterhose [Pink]",
+ItemName_Base.FrillyUnderpants_Red = "Freizügige Unterhose [Rot]",
+ItemName_Base.Underpants_RedSpots = "Freizügige Unterhose [Punkte]",
+ItemName_Base.Underpants_AnimalPrint = "Freizügige Unterhose [Tiere]",
+
+--Others
+ItemName_Base.Snackcakes_Plonkies = "Twinkies",
+
+--Not-Working
+ItemName_Base.IDcard = "Ausweis:",
+
+
+}

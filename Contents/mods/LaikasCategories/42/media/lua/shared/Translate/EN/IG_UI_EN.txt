@@ -1,0 +1,416 @@
+IGUI_EN = {
+-- Axe
+IGUI_ItemCat_Ausruestung_[Axt-Einhaendig] = "Equipment [Axe - One-handed]",
+IGUI_ItemCat_Ausruestung_[Axt-Schwer] = "Equipment [Axe - Heavy]",
+IGUI_ItemCat_Ausruestung_[Axt-Zweihaendig] = "Equipment [Axe - Two-handed]",
+-- Long Blunt
+IGUI_ItemCat_Ausruestung_[Stumpfwaffe-Einhaendig] = "Equipment [Blunt Weapon - One-handed]",
+IGUI_ItemCat_Ausruestung_[Stumpfwaffe-Kettensaege] = "Equipment [Blunt Weapon - Chainsaw]",
+IGUI_ItemCat_Ausruestung_[Stumpfwaffe-Schwer] = "Equipment [Blunt Weapon - Heavy]",
+IGUI_ItemCat_Ausruestung_[Stumpfwaffe-Zweihaendig] = "Equipment [Blunt Weapon - Two-handed]",
+-- Short Blunt
+IGUI_ItemCat_Ausruestung_[Kurze_Stumpfwaffe-Einhaendig] = "Equipment [Blunt Weapon - One-handed]",
+IGUI_ItemCat_Ausruestung_[Kurze_Stumpfwaffe-Zweihaendig] = "Equipment [Blunt Weapon - Two-handed]",
+-- Long Blade
+IGUI_ItemCat_Ausruestung_[Klingenwaffe_Einhaendig] = "Equipment [Bladed Weapon - One-handed]",
+IGUI_ItemCat_Ausruestung_[Klingenwaffe_Zweihaendig] = "Equipment [Bladed Weapon - Two-handed]",
+-- Short Blade
+IGUI_ItemCat_Ausruestung_[Kurze_Klingenwaffe-Einhaendig] = "Equipment [Bladed Weapon - One-handed]",
+IGUI_ItemCat_Ausruestung_[Kurze_Klingenwaffe-Stechen] = "Equipment [Bladed Weapon - Thrusting]",
+-- Spear
+IGUI_ItemCat_Ausruestung_[Speer-Zweihaendig] = "Equipment [Spear - Two-handed]",
+-- Improvised
+IGUI_ItemCat_Ausruestung_[Kartierung] = "Equipment [Mapping]",
+-- Handguns
+IGUI_ItemCat_Ausruestung_[Waffe-Pistole] = "Equipment [Weapon-Pistol]",
+-- Shotguns
+IGUI_ItemCat_Ausruestung_[Waffe-Schrotflinte] = "Equipment [Weapon-Shotgun]",
+-- Rifles
+IGUI_ItemCat_Ausruestung_[Waffe-Gewehr] = "Equipment [Weapon-Rifle]",
+-- Explosives
+IGUI_ItemCat_Ausruestung_[Waffe-Sonstiges] = "Equipment [Weapon-Other]",
+-- Canon
+IGUI_ItemCat_Ausruestung_[Waffe-Zusatz] = "Equipment [Weapon-Attachment]",
+-- Recoil Pad
+IGUI_ItemCat_Ausruestung_[Waffe-Zusatz] = "Equipment [Weapon-Attachment]",
+-- Scope
+IGUI_ItemCat_Ausruestung_[Waffe-Zusatz] = "Equipment [Weapon-Attachment]",
+-- Sling
+IGUI_ItemCat_Ausruestung_[Waffe-Zusatz] = "Equipment [Weapon-Attachment]",
+-- Stock
+IGUI_ItemCat_Ausruestung_[Waffe-Zusatz] = "Equipment [Weapon-Attachment]",
+-- Ammo
+IGUI_ItemCat_Ausruestung_[Munition] = "Equipment [Ammunition]",
+-- Boxes
+IGUI_ItemCat_Ausruestung_[Munitionsbox] = "Equipment [Ammo Box]",
+-- Magazines
+IGUI_ItemCat_Ausruestung_[Magazin] = "Equipment [Magazine]",
+-- Molds
+IGUI_ItemCat_Ausruestung_[Magazin-Bauteil] = "Equipment [Magazine]",
+-- Tank Top
+IGUI_ItemCat_Kleidung_[Oben-Primaer] = "Clothing [Top-Primary]",
+-- T-shirts
+IGUI_ItemCat_Kleidung_[Oben-Sekundaer] = "Clothing [Top-Secondary]",
+-- Short Sleeve Shirts
+IGUI_ItemCat_Kleidung_[Oben-Tertiaer] = "Clothing [Top-Tertiary]",
+-- Shirts
+IGUI_ItemCat_Kleidung_[Oben-Zusatz] = "Clothing [Top-Additional]",
+-- Sweaters
+IGUI_ItemCat_Kleidung_[Torso-Primaer] = "Clothing [Torso-Primary]",
+-- Jackets
+IGUI_ItemCat_Kleidung_[Torso-Sekundaer] = "Clothing [Torso-Secondary]",
+-- Torso Extra
+IGUI_ItemCat_Kleidung_[Torso-Tertiaer] = "Clothing [Torso-Tertiary]",
+-- Suit
+IGUI_ItemCat_Kleidung_[Torso-Zusatz] = "Clothing [Torso-Additional]",
+-- Legs
+IGUI_ItemCat_Kleidung_[Unten-Hose] = "Clothing [Bottoms-Pants]",
+-- Under clothing
+IGUI_ItemCat_Kleidung_[Unten-Zusatz] = "Clothing [Bottoms-Additional]",
+-- Socks
+IGUI_ItemCat_Kleidung_[Unten-Primaer] = "Clothing [Bottoms-Primary]",
+-- Feet
+IGUI_ItemCat_Kleidung_[Unten-Sekundaer] = "Clothing [Bottoms-Secondary]",
+-- Underwear
+IGUI_ItemCat_Kleidung_[Unterwaesche-Primaer] = "Clothing [Underwear-Primary]",
+-- Underwear Top
+IGUI_ItemCat_Kleidung_[Unterwaesche-Sekundaer] = "Clothing [Underwear-Secondary]",
+-- Underwear Bottom
+IGUI_ItemCat_Kleidung_[Unterwaesche-Tertiaer] = "Clothing [Underwear-Tertiary]",
+-- Underwear Extra 1
+IGUI_ItemCat_Kleidung_[Unterwaesche-Zusatz] = "Clothing [Underwear-Additional]",
+-- Underwear Extra 2
+IGUI_ItemCat_Kleidung_[Zusatz-Kurzer_Schwanz] = "Clothing [Additional-Short Tail]",
+-- Tail
+IGUI_ItemCat_Kleidung_[Zusatz-Langer_Schwanz] = "Clothing [Additional-Long Tail]",
+-- Eyewear
+IGUI_ItemCat_Kleidung_[Kopf-Primaer] = "Clothing [Head-Primary]",
+-- Masks
+IGUI_ItemCat_Kleidung_[Kopf-Sekundaer] = "Clothing [Head-Secondary]",
+-- Headwear
+IGUI_ItemCat_Kleidung_[Kopf-Tertiaer] = "Clothing [Head-Tertiary]",
+-- Scarves
+IGUI_ItemCat_Kleidung_[Kopf-Zusatz] = "Clothing [Head-Additional]",
+-- Hands
+IGUI_ItemCat_Kleidung_[Haende-Primaer] = "Clothing [Hands-Primary]",
+-- Belts
+IGUI_ItemCat_Zusatz_[Guertel-Primaer] = "Accessory [Belt-Primary]",
+IGUI_ItemCat_Zusatz_[Guertel-Sekundaer] = "Accessory [Belt-Secondary]",
+-- Neck
+IGUI_ItemCat_Schmuck_[Halsband] = "Jewelry [Necklace]",
+-- Necklace
+IGUI_ItemCat_Schmuck_[Halskette-Kurz] = "Jewelry [Necklace-Short]",
+-- Necklace Long
+IGUI_ItemCat_Schmuck_[Halskette-Lang] = "Jewelry [Necklace-Long]",
+-- Nose
+IGUI_ItemCat_Schmuck_[Piercing-Nase] = "Jewelry [Piercing-Nose]",
+-- Ears
+IGUI_ItemCat_Schmuck_[Piercing-Ohren] = "Jewelry [Piercing-Ear]",
+-- Fingers
+IGUI_ItemCat_Schmuck_[Hand] = "Jewelry [Hand]",
+-- Wrists
+IGUI_ItemCat_Schmuck_[Handgelenk] = "Jewelry [Wrist]",
+-- Belly
+IGUI_ItemCat_Schmuck_[Piercing-Bauch] = "Jewelry [Piercing-Belly]",
+-- Wearable
+IGUI_ItemCat_Zusatz_[Tasche-Ruecken] = "Accessory [Bag-Main]",
+IGUI_ItemCat_Zusatz_[Tasche-Front] = "Accessory [Bag-Front]",
+IGUI_ItemCat_Zusatz_[Tasche-Hinten] = "Accessory [Bag-Back]",
+-- Handheld
+IGUI_ItemCat_Sonstiges_[Behaelter] = "Miscellaneous [Container]",
+-- Water containers
+IGUI_ItemCat_Kueche_[Behaelter-Wasser] = "Kitchen [Container-Water]",
+-- Light sources
+IGUI_ItemCat_Ausruestung_[Sonstiges] = "Equipment [Miscellaneous]",
+-- General
+IGUI_ItemCat_Ausruestung_[Werkzeug-Schmieden] = "Equipment [Tool-Forging]",
+IGUI_ItemCat_Ausruestung_[Werkzeug-Tischlerei] = "Equipment [Tool-Carpentry]",
+IGUI_ItemCat_Ausruestung_[Werkzeug-Lagerfeuer] = "Equipment [Tool-Firestarting]",
+IGUI_ItemCat_Ausruestung_[Werkzeug-Mechanik] = "Equipment [Tool-Mechanics]",
+IGUI_ItemCat_Ausruestung_[Werkzeug-Metallbearbeitung] = "Equipment [Tool-Metalworking]",
+-- Cooking
+IGUI_ItemCat_Kueche_[Behaelter] = "Kitchen [Container]",
+IGUI_ItemCat_Kueche_[Sonstiges] = "Kitchen [Miscellaneous]",
+-- Gardening
+IGUI_ItemCat_Sonstiges_[Garten] = "Miscellaneous [Garden]",
+-- Cleaning
+IGUI_ItemCat_Sonstiges_[Reinigung] = "Miscellaneous [Cleaning]",
+-- Stationery
+IGUI_ItemCat_Naehen_[Ausruestung] = "Sewing [Equipment]",
+-- Other
+IGUI_ItemCat_Sonstiges_[Unsortiert] = "Miscellaneous [Unsorted]",
+-- Camping
+IGUI_ItemCat_Sonstiges_[Unsortiert] = "Miscellaneous [Unsorted]",
+IGUI_ItemCat_Ausruestung_[Werkzeug-Lagerfeuer] = "Equipment [Tool-Campfire]",
+-- Trapping
+IGUI_ItemCat_Ausruestung_[Werkzeug-Falle] = "Equipment [Tool-Trap]",
+-- Communications
+IGUI_ItemCat_Ausruestung_[Werkzeug-Kommunikation] = "Equipment [Tool-Communication]",
+IGUI_ItemCat_Objekt_[Elektronik-Radio] = "Object [Electronics-Radio]",
+IGUI_ItemCat_Objekt_[Elektronik-Fernseher] = "Object [Electronics-Television]",
+-- Containers
+IGUI_ItemCat_Zusatz_[Schluesselring] = "Accessory [Key Ring]",
+-- Keys
+IGUI_ItemCat_Sonstiges_[Schluessel] = "Miscellaneous [Keys]",
+-- Locks
+IGUI_ItemCat_Sonstiges_[Schloss] = "Miscellaneous [Lock]",
+-- Canned food
+IGUI_ItemCat_Nahrung_[Haltbar] = "Food [Non-perishable]",
+-- Pickled food
+IGUI_ItemCat_Nahrung_[Haltbar] = "Food [Non-perishable]",
+-- Prepared/Cooked
+IGUI_ItemCat_Nahrung_[Verderblich] = "Food [Perishable]",
+-- Evolved recipe
+IGUI_ItemCat_Nahrung_[Verderblich] = "Food [Perishable]",
+-- Spice
+IGUI_ItemCat_Nahrung_[Gewuerz] = "Food [Spice]",
+-- Drink
+IGUI_ItemCat_Nahrung_[Getraenk] = "Food [Beverage]",
+IGUI_ItemCat_Reinigungsmittel_[Toedlich] = "Cleaning Agent [Deadly]";
+IGUI_ItemCat_Nahrung_[Verderblich] = "Food [Perishable]";
+-- Protein
+IGUI_ItemCat_Nahrung_[Verderblich] = "Food [Perishable]";
+-- Game
+IGUI_ItemCat_Nahrung_[Verderblich] = "Food [Perishable]";
+-- Fish
+IGUI_ItemCat_Nahrung_[Verderblich] = "Food [Perishable]";
+-- Insect
+IGUI_ItemCat_Sonstiges_[Koeder] = "Miscellaneous [Bait]";
+-- Fruit
+IGUI_ItemCat_Nahrung_[Verderblich] = "Food [Perishable]";
+-- Grains
+IGUI_ItemCat_Nahrung_[Verderblich] = "Food [Perishable]";
+IGUI_ItemCat_Nahrung_[Haltbar] = "Food [Non-perishable]";
+IGUI_ItemCat_Nahrung_[Zutat] = "Food [Ingredient]";
+-- Sweets
+IGUI_ItemCat_Nahrung_[Haltbar] = "Food [Non-perishable]";
+IGUI_ItemCat_Nahrung_[Verderblich] = "Food [Perishable]";
+-- Vegetable
+IGUI_ItemCat_Nahrung_[Haltbar] = "Food [Non-perishable]";
+IGUI_ItemCat_Nahrung_[Verderblich] = "Food [Perishable]";
+-- Wild herbs
+IGUI_ItemCat_Nahrung_[Gewuerz] = "Food [Spice]",
+
+IGUI_ItemCat_Ausruestung_[Lagerfeuer] = "Equipment [Campfire]",
+
+IGUI_ItemCat_Ausruestung_[Axt] = "Equipment [Axe]",
+IGUI_ItemCat_Ausruestung_[Kurze_Stumpfwaffe] = "Equipment [Short Blunt Weapon]",
+IGUI_ItemCat_Ausruestung_[Stumpfwaffe] = "Equipment [Blunt Weapon]",
+IGUI_ItemCat_Ausruestung_[Kurze_Stumpfwaffe] = "Equipment [Short Blunt Weapon]",
+IGUI_ItemCat_Ausruestung_[Klingenwaffe] = "Equipment [Bladed Weapon]",
+IGUI_ItemCat_Ausruestung_[Kurze_Klingenwaffe] = "Equipment [Short Bladed Weapon]",
+IGUI_ItemCat_Ausruestung_[Speer] = "Equipment [Spear]",
+
+IGUI_ItemCat_Sonstiges_[Unterhaltung] = "Miscellaneous [Entertainment]",
+-- Wild plants
+
+-- Miscellaneous
+
+-- Bandages
+
+-- Disinfectants
+
+-- Herbs
+
+-- Poultices
+
+-- Medical equipment
+
+-- Pharmaceuticals
+
+-- Cartography
+
+-- Skill book
+
+-- Recipe magazine
+
+-- Leisure
+
+-- Writable
+
+-- General parts
+
+-- Gasoline
+
+-- Brake
+
+-- Car Battery
+
+-- Door
+
+-- Gas Tank
+
+-- Glove Box
+
+-- Hood
+
+-- Muffler
+
+-- Seat
+
+-- Suspension
+
+-- Tire
+
+-- Trunk
+
+-- Trunk Lid
+
+-- Window
+
+-- Repairing
+
+-- Materials
+
+-- Paint
+
+-- Power sources
+
+-- Components
+
+-- Appliances
+
+-- Light bulbs
+
+-- Seeds
+
+-- Seeds packets
+
+-- Fertilizer
+
+-- Plush toys
+
+-- Junk
+
+-- Sports
+IGUI_ItemCat_Sonstiges_[ZMuell] = "Miscellaneous [Trash]",
+------------------------------------------------------------------------------------------------------------------------
+-- Ausrüstung
+IGUI_ItemCat_Ausruestung_Kartierung = "Equipment [Mapping]",
+IGUI_ItemCat_Ausruestung_Makeup_Lippen = "Equipment [Makeup-Lips]",
+IGUI_ItemCat_Ausruestung_Makeup_Augen = "Equipment [Makeup-Eyes]",
+IGUI_ItemCat_Ausruestung_Makeup_Gesicht = "Equipment [Makeup-Face]",
+IGUI_ItemCat_Ausruestung_Munition = "Equipment [Ammunition]",
+IGUI_ItemCat_Ausruestung_Munitionsbox = "Equipment [Ammo Box]",
+IGUI_ItemCat_Ausruestung_Werkzeug = "Equipment [Tool]",
+IGUI_ItemCat_Ausruestung_Kurzklinge_Stechen = "Equipment [Short Blade-Thrusting]",
+IGUI_ItemCat_Ausruestung_Werkzeug_Metallbearbeitung = "Equipment [Tool-Metalworking]",
+IGUI_ItemCat_Ausruestung_Werkzeug_Tischlerei = "Equipment [Tool-Carpentry]",
+IGUI_ItemCat_Ausruestung_Werkzeug_Mechanik = "Equipment [Tool-Mechanics]",
+IGUI_ItemCat_Ausruestung_Stumpfwaffe_Kurz_Zweihaendig = "Equipment [Short Two-handed Blunt Weapon]",
+IGUI_ItemCat_Ausruestung_Stumpfwaffe_Kurz_Einhaendig = "Equipment [Short One-handed Blunt Weapon]",
+IGUI_ItemCat_Ausruestung_Werkzeug_Training = "Equipment [Tool-Training]",
+IGUI_ItemCat_Kueche_Werkzeug = "Kitchen [Utensils]",
+IGUI_ItemCat_Kueche_Behaelter = "Kitchen [Container]",
+IGUI_ItemCat_Ausruestung_Klingenwaffe_Lang_Zweihaendig = "Equipment [Long Two-handed Bladed Weapon]",
+IGUI_ItemCat_Ausruestung_Klingenwaffe_Lang_Einhaendig = "Equipment [Long One-handed Bladed Weapon]]",
+
+--Erste Hilfe
+IGUI_ItemCat_Erste_Hilfe_[Ausruestung] = "First Aid [Equipment]",
+IGUI_ItemCat_Erste_Hilfe_[Bandage] = "First Aid [Bandage]",
+	
+--Kleidung
+IGUI_ItemCat_Kleidung_[Haende-Primaer] = "Clothing [Hands-Primary]",
+IGUI_ItemCat_Kleidung_[Kopf-Primaer] = "Clothing [Head-Primary]",
+IGUI_ItemCat_Kleidung_[Oben-Primaer] = "Clothing [Top-Primary]",
+IGUI_ItemCat_Kleidung_[Oben-Sekundaer] = "Clothing [Top-Secondary]",
+IGUI_ItemCat_Kleidung_[Oben-Tertiaer] = "Clothing [Top-Tertiary]",
+IGUI_ItemCat_Kleidung_[Oben-Zusatz] = "Clothing [Top-Additional]",
+IGUI_ItemCat_Kleidung_[Torso-Primaer] = "Clothing [Torso-Primary]",
+IGUI_ItemCat_Kleidung_[Torso-Sekundaer] = "Clothing [Torso-Secondary]",
+IGUI_ItemCat_Kleidung_[Torso-Tertiaer] = "Clothing [Torso-Tertiary]",
+IGUI_ItemCat_Kleidung_[Torso-Zusatz] = "Clothing [Torso-Additional]",
+IGUI_ItemCat_Kleidung_[Unten-Hose] = "Clothing [Bottoms-Pants]",
+IGUI_ItemCat_Kleidung_[Unten-Primaer] = "Clothing [Bottoms-Socks]",
+IGUI_ItemCat_Kleidung_[Unten-Sekundaer] = "Clothing [Bottoms-Boots]",
+IGUI_ItemCat_Kleidung_[Unten-Zusatz] = "Clothing [Bottoms-Additional]",
+IGUI_ItemCat_Kleidung_[Unterwaesche-Primaer] = "Clothing [Underwear-Primary]",
+IGUI_ItemCat_Kleidung_[Unterwaesche-Sekundaer] = "Clothing [Underwear-Secondary]",
+IGUI_ItemCat_Kleidung_[Unterwaesche-Tertiaer] = "Clothing [Underwear-Tertiary]",
+IGUI_ItemCat_Kleidung_[Unterwaesche-Zusatz] = "Clothing [Underwear-Additional]",
+IGUI_ItemCat_Kleidung_[Zusatz-Schwanz] = "Clothing [Additional-Tail]",
+
+--Lebensmittel
+IGUI_ItemCat_Lebensmittel_Wasser_Gefuellt = "Groceries [Water]",
+IGUI_ItemCat_Lebensmittel_Wasser_Leer = "Groceries [Water-Empty]",
+	
+--Naehen
+IGUI_ItemCat_Naehen_[Ausruestung] = "Sewing [Equipment]",
+IGUI_ItemCat_Naehen_[Faden] = "Sewing [Thread]",
+IGUI_ItemCat_Naehen_[Material] = "Sewing [Material]",
+
+IGUI_ItemCat_Erste_Hilfe_[Desinfektionsmittel] = "First Aid [Disinfectant]",
+IGUI_ItemCat_Erste_Hilfe_[Schmerzmittel] = "First Aid [Painkillers]",
+IGUI_ItemCat_Erste_Hilfe_[Zutat_Bruch] = "First Aid [Ingredient-Fracture]",
+IGUI_ItemCat_Erste_Hilfe_[Zutat_Erkaeltung] = "First Aid [Ingredient-Cold]",
+IGUI_ItemCat_Erste_Hilfe_[Erschoepfung] = "First Aid [Exhaustion]",
+IGUI_ItemCat_Erste_Hilfe_[Krankheit] = "First Aid [Illness]",
+IGUI_ItemCat_Erste_Hilfe_[Zutat-Wundversorgung] = "First Aid [Ingredient-Wound Care]",
+IGUI_ItemCat_Erste_Hilfe_[Zutat-Desinfektion] = "First Aid [Ingredient-Disinfection]",
+IGUI_ItemCat_Erste_Hilfe_[Umschlag-Bruch] = "First Aid [Poultice-Fracture]",
+IGUI_ItemCat_Erste_Hilfe_[Umschlag-Wundversorgung] = "First Aid [Poultice-Wound Care]",
+IGUI_ItemCat_Erste_Hilfe_[Umschlag-Desinfektion] = "First Aid [Poultice-Disinfection]",
+IGUI_ItemCat_Erste_Hilfe_[Muedigkeit] = "First Aid [Fatigue]",
+IGUI_ItemCat_Erste_Hilfe_[Schlafmittel] = "First Aid [Sleeping]",
+IGUI_ItemCat_Erste_Hilfe_[Panik] = "First Aid [Panic]",
+IGUI_ItemCat_Erste_Hilfe_[Depression] = "First Aid [Depression]",
+IGUI_ItemCat_Erste_Hilfe_[Antibiotika] = "First Aid [Antibiotics]",
+
+IGUI_ItemCat_Sonstiges_[KartierungB] = "Miscellaneous [Mapping]",
+IGUI_ItemCat_Sonstiges_[KartierungA] = "Miscellaneous [Mapping]",
+
+IGUI_ItemCat_Literatur_[Lehrbuch] = "Literature [Skillbook]",
+IGUI_ItemCat_Literatur_[Magazin] = "Literature [Magazine]",
+IGUI_ItemCat_Literatur_[Unterhaltung] = "Literature [Entertainment]",
+
+IGUI_ItemCat_Material_[Reparatur] = "Material [Repair]",
+
+IGUI_ItemCat_Sonstiges_[Dekoration] = "Miscellaneous [Decoration]",
+
+IGUI_ItemCat_Landwirtschaft_[Ausruestung] = "Farming [Equipment]",
+IGUI_ItemCat_Landwirtschaft_[Duenger] = "Farming [Fertilizer]",
+IGUI_ItemCat_Landwirtschaft_[Pestizid] = "Farming [Pesticide]",
+IGUI_ItemCat_Landwirtschaft_[Samen] = "Farming [Seeds]",
+IGUI_ItemCat_Landwirtschaft_[Samenpaket] = "Farming [Seed Packet]",
+IGUI_ItemCat_Landwirtschaft_[Behaelter] = "Landwirtschaft [Container]",
+
+IGUI_ItemCat_Fahrzeug_[Sonstiges] = "Vehicle [Miscellaneous]",
+IGUI_ItemCat_Fahrzeug_[Benzin] = "Vehicle [Gasoline]",
+IGUI_ItemCat_Fahrzeug_[Bremse] = "Vehicle [Brake]",
+IGUI_ItemCat_Fahrzeug_[Batterie] = "Vehicle [Battery]",
+IGUI_ItemCat_Fahrzeug_[Tuer] = "Vehicle [Door]",
+IGUI_ItemCat_Fahrzeug_[Treibstofftank] = "Vehicle [Fuel Tank]",
+IGUI_ItemCat_Fahrzeug_[Handschuhfach] = "Vehicle [Glove Box]",
+IGUI_ItemCat_Fahrzeug_[Motorhaube] = "Vehicle [Hood]",
+IGUI_ItemCat_Fahrzeug_[Auspuff] = "Vehicle [Exhaust]",
+IGUI_ItemCat_Fahrzeug_[Sitz] = "Vehicle [Seat]",
+IGUI_ItemCat_Fahrzeug_[Federung] = "Vehicle [Suspension]",
+IGUI_ItemCat_Fahrzeug_[Reifen] = "Vehicle [Tire]",
+IGUI_ItemCat_Fahrzeug_[Kofferraum] = "Vehicle [Trunk]",
+IGUI_ItemCat_Fahrzeug_[Heckklappe] = "Vehicle [Tailgate]",
+IGUI_ItemCat_Fahrzeug_[Windschutzscheibe] = "Vehicle [Windshield]",
+IGUI_ItemCat_Fahrzeug_[Heckscheibe] = "Vehicle [Rear Window]",
+IGUI_ItemCat_Fahrzeug_[Frontfenster] = "Vehicle [Front Window]",
+IGUI_ItemCat_Fahrzeug_[Rueckfenster] = "Vehicle [Back Window]",
+
+IGUI_ItemCat_Sonstiges_[Material] = "Miscellaneous [Material]",
+IGUI_ItemCat_Sonstiges_[Brennstoff] = "Miscellaneous [Fuel]",
+IGUI_ItemCat_Sonstiges_[Behaelter] = "Miscellaneous [Container]",
+
+IGUI_ItemCat_Sonstiges_[Farbe] = "Miscellaneous [Paint]",
+IGUI_ItemCat_Sonstiges_[Energiequelle] = "Miscellaneous [Power Source]",
+IGUI_ItemCat_Sonstiges_[Elektronik] = "Miscellaneous [Electronics]",
+IGUI_ItemCat_Sonstiges_[Geraet] = "Miscellaneous [Device]",
+
+IGUI_ItemCat_Sonstiges_[Reparatur] = "Miscellaneous [Repair]",
+	
+IGUI_ItemCat_Pflege_[Augen] = "Care [Eyes]",
+IGUI_ItemCat_Pflege_[Gesicht] = "Care [Face]",
+IGUI_ItemCat_Pflege_[ZHaare] = "Care [Hair]",
+IGUI_ItemCat_Pflege_[Lippen] = "Care [Lips]",
+IGUI_ItemCat_Pflege_[Sonstiges] = "Care [Miscellaneous]",
+IGUI_ItemCat_First_Aid_[Sonstiges] = "First Aid [Miscellaneous]",
+IGUI_ItemCat_Sonstiges_[Objekt] = Miscellaneous [Object],
+IGUI_ItemCat_Kleidung_[Unbekannt] = Kleidung [Unknown],
+
+}

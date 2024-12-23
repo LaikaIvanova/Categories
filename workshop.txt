@@ -1,0 +1,6 @@
+version=1
+id=3138393486
+title=Laikas Categories
+description=My own personal category mod.
+tags=Build 42
+visibility=friendsOnly
