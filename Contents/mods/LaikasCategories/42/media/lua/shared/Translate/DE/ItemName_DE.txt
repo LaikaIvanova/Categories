@@ -6,6 +6,7 @@ ItemName_Base.CigaretteSingle = "Zigarette",
 ItemName_Base.PlasticCup = "Plastikbecher [Leer]",
 ItemName_Base.IDcard = "Ausweis",
 ItemName_Base.IDcard_Male = "Ausweis",
+ItemName_Base.IDcard_Female = "Ausweis",
 
 --Vanilla
 ItemName_Base.Pistol3 = "Desert Eagle",
@@ -64,7 +65,5 @@ ItemName_Base.Underpants_AnimalPrint = "Freizügige Unterhose [Tiere]",
 ItemName_Base.Snackcakes_Plonkies = "Twinkies",
 
 --Not-Working
-ItemName_Base.IDcard_Female = "Ausweis",
-
 
 }
